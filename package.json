@@ -1,0 +1,24 @@
+{
+  "name": "parse.server",
+  "version": "1.0.0",
+  "description": "parse server",
+  "main": "index.js",
+  "keywords": [
+    "wangdong",
+    "wang-dong",
+    "parse",
+    "parse-server"
+  ],
+  "author": "wangdong",
+  "license": "MIT",
+  "repository": "repertory/parse.server",
+  "bin": {
+    "parse.server": "./cli.js"
+  },
+  "dependencies": {
+    "args": "^5.0.0",
+    "express": "^4.0.0",
+    "parse-dashboard": "^1.0.0",
+    "parse-server": "^3.0.0"
+  }
+}
