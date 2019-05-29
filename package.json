@@ -1,5 +1,5 @@
 {
-  "name": "parse.server",
+  "name": "@wang-dong/parse.server",
   "version": "1.0.0",
   "description": "parse server",
   "main": "index.js",

@@ -1,9 +1,9 @@
-# parse.server
+# @wang-dong/parse.server
 
 全局安装
 
 ```
-npm install -g parse.server
+npm install -g @wang-dong/parse.server
 ```
 
 启动命令
@@ -17,7 +17,7 @@ parse.server.cmd  # windows
 
 ```
 const {createServer} = require('http');
-const {middleware} = require('parse.server');
+const {middleware} = require('@wang-dong/parse.server');
 
 createServer(middleware()).listen(8080, () => console.log('Server running on port 8080'));
 ```
