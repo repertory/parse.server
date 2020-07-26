@@ -10,7 +10,6 @@
     "serverURL": "http://127.0.0.1:8080/parse",
     "databaseURI": "mongodb://127.0.0.1:27017/parse",
     "databaseOptions": {
-      "autoReconnect": true,
       "poolSize": 10
     },
     "appId": "A9bVJTT5fmH5zqP8CPqDK1cva5NfkBP6",
